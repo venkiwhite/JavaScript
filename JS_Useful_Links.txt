@@ -1,1 +1,4 @@
 https://www.toptal.com/javascript/10-most-common-javascript-mistakes
+
+JS Array reduce and reduceRight:
+https://www.javascripttutorial.net/javascript-array-reduce/
